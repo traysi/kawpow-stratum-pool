@@ -24,7 +24,7 @@
     "name": "Traysi Hylian"
   },
   "bugs": {
-    "url": "hhttps://github.com/traysi/kawpow-stratum-pool/issues"
+    "url": "https://github.com/traysi/kawpow-stratum-pool/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -53,8 +53,8 @@
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
     "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
-    "equihashverify": "git+https://github.com/ZencashOfficial/equihashverify.git",
-    "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+    
+    
     "promise": "*",
     "sha3": "git+https://github.com/phusion/node-sha3.git"
   },
